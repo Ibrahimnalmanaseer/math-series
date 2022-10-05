@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- Link01
+- [pull request] (https://github.com/Ibrahimnalmanaseer/math-series/pull/1)
 
 
 ### Setup
