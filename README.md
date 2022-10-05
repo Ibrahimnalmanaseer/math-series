@@ -1,4 +1,4 @@
-# math-series - Class 02
+# Math-series - Class 02
 
 ## Project: Math series
 
