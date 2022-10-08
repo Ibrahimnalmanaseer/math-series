@@ -3,6 +3,11 @@ from ast import Break
 
 def fibonacci(n):
 
+    '''
+    return a Fibonacci series up to n 
+    
+    '''
+
     if n == 0:
         return 0 
 
@@ -16,6 +21,11 @@ def fibonacci(n):
 
 
 def lucas(n):
+
+    '''
+    return a Lucas series up to n 
+    
+    '''
 
     if n == 0:
         return 2 
@@ -32,6 +42,11 @@ def lucas(n):
 
 
 def other_series(n,first_value,second_value):
+
+    '''
+    return a series up to n ,starts from two given values (first_value,second_value) 
+    
+    '''
 
     if first_value and second_value :
 
@@ -50,7 +65,11 @@ def other_series(n,first_value,second_value):
 
 
 def sum_series(n,first_value=0,second_value=1):
-
+    
+    '''
+    return fibonacci, Lucas or customize series up to n value
+    
+    '''
    
 
     if first_value == 0 and second_value == 1 :
